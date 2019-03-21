@@ -1,0 +1,3 @@
+C:/Users/Mateusz/Desktop/studia/semestr 4/cpp/lab1/zad z zajec/cmake-build-debug/CMakeFiles/zad_z_zajec.dir
+C:/Users/Mateusz/Desktop/studia/semestr 4/cpp/lab1/zad z zajec/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mateusz/Desktop/studia/semestr 4/cpp/lab1/zad z zajec/cmake-build-debug/CMakeFiles/rebuild_cache.dir

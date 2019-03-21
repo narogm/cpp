@@ -1,0 +1,3 @@
+C:/Users/Mateusz/Desktop/studia/semestr 4/cpp/lab1/zestaw przykladowy/cmake-build-debug/CMakeFiles/zestaw_przykladowy.dir
+C:/Users/Mateusz/Desktop/studia/semestr 4/cpp/lab1/zestaw przykladowy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mateusz/Desktop/studia/semestr 4/cpp/lab1/zestaw przykladowy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
